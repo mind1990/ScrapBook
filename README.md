@@ -1,6 +1,8 @@
 <h1>ScrapBook</h1>
 ScrapBook is a website where users can sign up, login then post photos on their timeline to save their memories.
 
+![scrapbook](https://user-images.githubusercontent.com/27410207/50102892-27e07d80-01db-11e9-97be-953df920fe13.jpg)
+
 
 <h1>Heroku Link</h1>
 <p>http://ptm-project.herokuapp.com</p>
